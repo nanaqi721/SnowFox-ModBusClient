@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowFox.ModbusWindow", "SnowFox.ModbusWindow\SnowFox.ModbusWindow.csproj", "{4486317B-16A3-45EB-938D-804EB4F367CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowFox.ModbusClient", "SnowFox.ModbusClient\SnowFox.ModbusClient.csproj", "{77DA5380-90DE-4F05-B94D-17A8736C12A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4486317B-16A3-45EB-938D-804EB4F367CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4486317B-16A3-45EB-938D-804EB4F367CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4486317B-16A3-45EB-938D-804EB4F367CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DA5380-90DE-4F05-B94D-17A8736C12A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DA5380-90DE-4F05-B94D-17A8736C12A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DA5380-90DE-4F05-B94D-17A8736C12A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DA5380-90DE-4F05-B94D-17A8736C12A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

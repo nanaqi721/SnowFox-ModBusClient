@@ -1,0 +1,12 @@
+E:\VsCodeObject\SnowFox.Modbus\SnowFox.ModbusClient\bin\Debug\net7.0\SnowFox.ModbusClient.deps.json
+E:\VsCodeObject\SnowFox.Modbus\SnowFox.ModbusClient\bin\Debug\net7.0\SnowFox.ModbusClient.dll
+E:\VsCodeObject\SnowFox.Modbus\SnowFox.ModbusClient\bin\Debug\net7.0\SnowFox.ModbusClient.pdb
+E:\VsCodeObject\SnowFox.Modbus\SnowFox.ModbusClient\obj\Debug\net7.0\SnowFox.ModbusClient.csproj.AssemblyReference.cache
+E:\VsCodeObject\SnowFox.Modbus\SnowFox.ModbusClient\obj\Debug\net7.0\SnowFox.ModbusClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsCodeObject\SnowFox.Modbus\SnowFox.ModbusClient\obj\Debug\net7.0\SnowFox.ModbusClient.AssemblyInfoInputs.cache
+E:\VsCodeObject\SnowFox.Modbus\SnowFox.ModbusClient\obj\Debug\net7.0\SnowFox.ModbusClient.AssemblyInfo.cs
+E:\VsCodeObject\SnowFox.Modbus\SnowFox.ModbusClient\obj\Debug\net7.0\SnowFox.ModbusClient.csproj.CoreCompileInputs.cache
+E:\VsCodeObject\SnowFox.Modbus\SnowFox.ModbusClient\obj\Debug\net7.0\SnowFox.ModbusClient.dll
+E:\VsCodeObject\SnowFox.Modbus\SnowFox.ModbusClient\obj\Debug\net7.0\refint\SnowFox.ModbusClient.dll
+E:\VsCodeObject\SnowFox.Modbus\SnowFox.ModbusClient\obj\Debug\net7.0\SnowFox.ModbusClient.pdb
+E:\VsCodeObject\SnowFox.Modbus\SnowFox.ModbusClient\obj\Debug\net7.0\ref\SnowFox.ModbusClient.dll
